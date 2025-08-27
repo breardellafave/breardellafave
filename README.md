@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brea DellaFave</h1>
-<h3 align="center">My name is Brea DellaFave, and I’m a sophomore at James Madison University majoring in Media Arts and Design with a concentration in Journalism and a minor in Digital Studies.A passionate frontend developer from India</h3>
-
+<h3 align="center">My name is Brea DellaFave, and I’m a sophomore at James Madison University majoring in Media Arts and Design with a concentration in Journalism and a minor in Digital Studies.
 - 📫 How to reach me **breardellafave@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1nr1SHqq6QQVwAxbD9MQ-e5QbbR7EBmwVQxxFkA8TPOU/edit?usp=sharing](https://docs.google.com/document/d/1nr1SHqq6QQVwAxbD9MQ-e5QbbR7EBmwVQxxFkA8TPOU/edit?usp=sharing)
