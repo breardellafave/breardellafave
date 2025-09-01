@@ -1,6 +1,5 @@
 <h1 align="left">Hi, I'm Brea DellaFave</h1>
 <p align="left">
-  <img src="130937286_mln5sncg9j.jpeg" alt="Brea DellaFave" width="200"/>
 </p>
 
 ### About Me
