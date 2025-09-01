@@ -35,4 +35,5 @@ Relevant Coursework: Public Relations Writing · Media Law & Ethics · Digital S
 ### Contact & Resume
 - **Email:** breardellafave@gmail.com  
 - **Resume:** [View here](https://docs.google.com/document/d/1nr1SHqq6QQVwAxbD9MQ-e5QbbR7EBmwVQxxFkA8TPOU)
+- **LinkedIn:** [Let's Connect!] https://www.linkedin.com/in/brea-dellafave-a8917a260/
 
