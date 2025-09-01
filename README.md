@@ -3,7 +3,7 @@
   <img src="130937286_mln5sncg9j.jpeg" alt="Brea DellaFave" width="200"/>
 </p>
 
-### align="left">
+### About Me
 My name is Brea DellaFave, and I’m a sophomore at James Madison University majoring in Media Arts and Design with a concentration in Journalism and a minor in Digital Studies. As a Writer for Her Campus JMU, Director of Community Engagement for Alpha Phi, and a JMU Student Ambassador, I’ve developed strong skills in content creation, social media strategy, public speaking, and community outreach. My background includes producing editorial content, organizing fundraising events, managing brand messaging, and leading public relations campaigns. I’m proficient in Adobe Creative Cloud (Photoshop, InDesign, Illustrator), Canva, Microsoft 365, and social platforms like Instagram, TikTok, and Twitter/X. I’m passionate about digital storytelling, brand communication, and creating high-impact content that builds community and drives engagement.
 
 
