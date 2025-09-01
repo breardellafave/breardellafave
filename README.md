@@ -18,7 +18,7 @@ Relevant Coursework: Public Relations Writing · Media Law & Ethics · Digital S
 
 
 ### Work Samples
-- **Digital Marketing Intern, PWCCF** — Created social media assets, digital flyers, and campaign materials. [View samples](https://drive.google.com/drive/folders/1FPOPyMEwymX25uJPFY9b2oT_6F6Ml24-?usp=sharing)
+**Digital Marketing Intern, PWCCF** — Created social media assets, digital flyers, and campaign materials. [View samples](https://drive.google.com/drive/folders/1FPOPyMEwymX25uJPFY9b2oT_6F6Ml24-?usp=sharing)
 
 
 ### Tools & Skills
