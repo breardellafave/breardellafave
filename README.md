@@ -36,4 +36,3 @@ Relevant Coursework: Public Relations Writing · Media Law & Ethics · Digital S
 - **Email:** breardellafave@gmail.com  
 - **Resume:** [View here](https://docs.google.com/document/d/1nr1SHqq6QQVwAxbD9MQ-e5QbbR7EBmwVQxxFkA8TPOU)
 
-  ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png "GitHub Logo")
